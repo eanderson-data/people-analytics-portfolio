@@ -1,6 +1,6 @@
 # People Analytics Portfolio
 
-Hi! I'm a Data Analyst specializing in **Talent Acquisition, Employee Retention, and Performance Metrics**. I bridge the gap between complex HR datasets and strategic leadership decisions.
+Hi! I'm a Data Analyst specializing in **Workforce Analytics including Talent Acquisition, Employee Retention, and Performance Metrics**. I bridge the gap between complex HR datasets and strategic leadership decisions.
 
 ---
 
